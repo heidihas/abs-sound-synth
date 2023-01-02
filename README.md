@@ -19,4 +19,4 @@ This repository is related to a Master's thesis work accomplished by Heidi Hassi
 
 ### User study
 
-[Link_to_folder]()
+[Folder](https://github.com/heidihas/abs-sound-synth/tree/main/User_study)
