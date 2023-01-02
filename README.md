@@ -15,7 +15,7 @@ This repository is related to a Master's thesis work accomplished by Heidi Hassi
 
 ### Experiments
 
-[Link_to_folder]()
+[Folder](https://github.com/heidihas/abs-sound-synth/tree/main/Experiments)
 
 ### User study
 
