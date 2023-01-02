@@ -9,7 +9,7 @@ This repository is related to a Master's thesis work accomplished by Heidi Hassi
 
 ## Code
 
-[Link_to_code_file]()
+[Colab file](https://colab.research.google.com/drive/1jSIdy-9ocLMVp6YEpGRMxx1rzZ4PXIq2?usp=sharing)
 
 ## Evaluation resources
 
