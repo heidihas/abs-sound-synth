@@ -5,18 +5,18 @@ This repository is related to a Master's thesis work accomplished by Heidi Hassi
 
 ## Thesis
 
-[Link_to_the_thesis]
+[Link_to_the_thesis]()
 
 ## Code
 
-[Link](https://github.com/heidihas/tira-harjoitustyo/blob/master/Dokumentaatio/K%C3%A4ytt%C3%B6ohje.md)
+[Link_to_code_file]()
 
 ## Evaluation resources
 
 ### Experiments
 
-[Link](https://github.com/heidihas/tira-harjoitustyo/blob/master/Dokumentaatio/K%C3%A4ytt%C3%B6ohje.md)
+[Link_to_folder]()
 
 ### User study
 
-[Link](https://github.com/heidihas/tira-harjoitustyo/blob/master/Dokumentaatio/K%C3%A4ytt%C3%B6ohje.md)
+[Link_to_folder]()
