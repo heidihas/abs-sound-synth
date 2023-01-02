@@ -1,0 +1,5 @@
+105_1
+chimes 2.5
+
+105_2
+sliding door 4.5
