@@ -1,7 +1,7 @@
 # Audio and Text Conditioned Abstract Sound Synthesis through Human-AI Interaction
 (Code and evaluation resources)
 
-This repository is related to a Master's thesis work by Heidi Hassinen at Aalto University, under the Computer, Communication and Information Sciences programme.
+This repository is related to the Master's thesis work by Heidi Hassinen at Aalto University, under the Computer, Communication and Information Sciences programme.
 
 ## Thesis
 
