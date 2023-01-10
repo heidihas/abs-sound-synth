@@ -19,3 +19,10 @@ Order of the studied synthesis methods in the synthesized results:
 6 AM-A
 7 AM-T
 8 AM-C
+
+AD = attack-decay amplitude envelopes
+AM = amplitude matrix
+S = spectrogram
+A = audio features
+T = text features
+C = combination
