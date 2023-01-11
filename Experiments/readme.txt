@@ -26,3 +26,9 @@ S = spectrogram
 A = audio features
 T = text features
 C = combination
+
+
+
+Audio names in format result[synthesis_method]-[iteration].wav
+Loss plot names in format loss_plot[synthesis_method].pdf
+Spectrogram names in format spec[synthesis_method]-[iteration].pdf

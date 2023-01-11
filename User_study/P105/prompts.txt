@@ -1,0 +1,5 @@
+prompt_1
+chimes 2.5s
+
+prompt_2
+sliding door 4.5s
