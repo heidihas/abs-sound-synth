@@ -5,7 +5,7 @@ This repository is related to the Master's thesis work by Heidi Hassinen at Aalt
 
 ## Thesis
 
-[Link_to_the_thesis]()
+[PDF file](https://aaltodoc.aalto.fi/bitstream/handle/123456789/119485/master_Hassinen_Heidi_2023.pdf?sequence=1&isAllowed=y)
 
 ## Code
 
